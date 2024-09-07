@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oUdH6Evm)
 # Python Basics
 
 In this task, we'll explore some of the foundational elements of Python programming, focusing on native Python features. This assignment is designed to be completed using Jupyter Notebooks, which will allow you to run and test your code interactively.
@@ -8,10 +9,11 @@ By the end of this assignment, you will:
 
 1. Understand and use basic arithmetic operations in Python.
 2. Assign and manipulate variables.
-3. Use basic comparison and logical operators.
-4. Seek help in Python using built-in functions.
-5. Manage and interpret some common error messages.
-6. Use several special characters (`;`, `\`, `{}`, `()`, and `[]`) in basic Python code.
+3. Numerical Types, Strings, and Type Checking
+4. Use basic comparison and logical operators.
+5. Seek help in Python using built-in functions.
+6. Manage and interpret some common error messages.
+7. Use several special characters (`;`, `\`, `{}`, `()`, and `[]`) in basic Python code.
 
 ## Getting Started
 
